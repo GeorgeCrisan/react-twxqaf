@@ -1,3 +1,4 @@
+// @ts-nocheck
 import * as React from 'react';
 import * as ReactDOM from 'react-dom';
 import { Grid, GridColumn as Column } from '@progress/kendo-react-grid';
