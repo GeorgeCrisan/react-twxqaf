@@ -17,9 +17,11 @@
     "@progress/kendo-react-intl": "5.2.0",
     "@progress/kendo-react-popup": "5.2.0",
     "@progress/kendo-react-treeview": "5.2.0",
+    "@types/react": "^16.9.34",
     "prop-types": "15.8.1",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "typescript": "^3.2.1"
   },
   "scripts": {
     "start": "react-scripts start",
